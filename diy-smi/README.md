@@ -34,10 +34,10 @@ python diy-smi.py
 
 #### Ubantu terminal:
 
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/471668/galleries/1907323/o_220525044856_ubantu_terminal.png" alt="ubantu" style="zoom:80%;" />
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/471668/galleries/1907323/o_220525044856_ubantu_terminal.png" alt="ubantu_terminal" style="zoom:50%;" />
 
 
 
 #### Windows Terminal Preview:
 
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/471668/galleries/1907323/o_220525044859_windows_terminal_preview.png" alt="image-20220525122839793" style="zoom: 85%;" />
+<img src="https://images.cnblogs.com/cnblogs_com/blogs/471668/galleries/1907323/o_220525044859_windows_terminal_preview.png" alt="image-windows_terminal_preview" style="zoom: 85%;" />
